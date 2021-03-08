@@ -1,4 +1,4 @@
-# EST Player & Item ESP
+# EFT Player & Item ESP
 Built this hack to find red keycards for $$$ 
 Got banned after 3 days
 
